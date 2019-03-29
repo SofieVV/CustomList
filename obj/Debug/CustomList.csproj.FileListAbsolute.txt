@@ -1,0 +1,7 @@
+c:\users\sofi\source\repos\OOP\CustomList\bin\Debug\CustomList.exe.config
+c:\users\sofi\source\repos\OOP\CustomList\bin\Debug\CustomList.exe
+c:\users\sofi\source\repos\OOP\CustomList\bin\Debug\CustomList.pdb
+c:\users\sofi\source\repos\OOP\CustomList\obj\Debug\CustomList.csproj.CoreCompileInputs.cache
+c:\users\sofi\source\repos\OOP\CustomList\obj\Debug\CustomList.exe
+c:\users\sofi\source\repos\OOP\CustomList\obj\Debug\CustomList.pdb
+C:\Users\Sofi\source\repos\OOP\CustomList\obj\Debug\CustomList.csprojResolveAssemblyReference.cache
